@@ -2,7 +2,7 @@
 
 A comprehensive GitHub information leakage monitoring platform that helps organizations detect and prevent sensitive data exposure on GitHub repositories.
 
-**Version**: 1.2.0
+**Version**: 0.2
 **Status**: Production Ready
 **Language**: [中文文档](./README_CN.md)
 
