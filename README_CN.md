@@ -2,7 +2,7 @@
 
 一个全面的 GitHub 信息泄漏监控平台，帮助组织检测和防止敏感数据在 GitHub 仓库上泄露。
 
-**版本**: 1.2.0
+**版本**: 0.2
 **状态**: 生产就绪
 **Language**: [English Documentation](./README.md)
 
